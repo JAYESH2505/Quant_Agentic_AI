@@ -5,4 +5,12 @@ psycopg2-binary
 alembic 
 pydantic 
 python-dotenv 
+alembic
 uvicorn
+yfinance 
+pandas 
+numpy 
+ta 
+requests 
+groq
+langgraph
